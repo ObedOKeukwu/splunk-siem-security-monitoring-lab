@@ -98,6 +98,12 @@ Failed login events were successfully detected and analyzed using Windows Event 
 - Security Information and Event Management (SIEM)
 
 ---
+## Demonstration Video
+
+Watch the Splunk SIEM Security Monitoring Lab demonstration:
+
+https://youtu.be/snG00WMnoSA
+---
 
 ## Screenshots
 
